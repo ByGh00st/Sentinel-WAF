@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel WAF",
+  "description": "Node.js & Express based Web Application Firewall Dashboard with real-time monitoring, regex rules, and IP management.",
+  "requestFramePermissions": []
+}
